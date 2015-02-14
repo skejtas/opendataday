@@ -9,7 +9,7 @@ Projects, challanges and activities
 ====================================
 
 City Open Data Census Croatia
-=========================
+---------------
 What's missing in 2014, how do we compare to other cities? [Read more](/Ocjena-otvorenosti-gradova.md)
 
 GIS Maps Showing Air Quality, Air Pollution & Community Demographics
