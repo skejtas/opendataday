@@ -1,8 +1,6 @@
 Osmisli i napravi aplikaciju za vizualizaciju incidenata
 ========================================================
 
-CodeAcross 2014 izazov (3)
-
 Ovdje imamo zadatak napraviti nešto zbilja inovativno! Pokušaj osmisliti, napraviti ili lokalizirati postojeću open source aplikaciju za vizualizaciju incidenata.
 
 Kako bi postigli potpunu transparentnost ovakvih podataka, potrebno je surađivati s javnim tijelima poput lokalne policije kako bi omogućili pristup statističkim brojkama u realnom ili vrlo blizu realnog vremena. Do sada smo na radio postajama slušali o broju incidenata koji se dogodio tog dana. Pokušajmo te informacije približiti informatičkom dobu i prikazati ih transparentno na karti.
