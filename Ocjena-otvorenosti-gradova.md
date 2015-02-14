@@ -1,8 +1,6 @@
 Ocjena otvorenih podataka gradova u Hrvatskoj: Koje informacije objavljuje tvoj grad?
 =============================
 
-CodeAcross 2015 aktivnost (1)
-
 [Stranica projekta](http://codeforcroatia.org/projects/cenzus_otvorenih_podataka_hrvatskih_gradova)
 
 Prvi korak da bi baza otvorenih podataka funkcionirala je taj da podaci moraju biti lako dostupni. Mnogi gradovi, imali oni politiku otvorenih podataka ili ne, imaju dosta posla što se tiče rada na glavnoj bazi podataka, da ona bude dostupna svima u čitljivom formatu. Potrebno je evaluirati na kakvoj se poziciji grad nalazi što se tiče baza podataka i potreban je rad sa gradskim vlastima da bi se napravio program koji bi omogućili tu bazu da bude otvorena i dostupna svima u 2014. godini.
