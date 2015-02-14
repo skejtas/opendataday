@@ -5,50 +5,63 @@ Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add
 
 [Add new project](http://codeforcroatia.org/projects/create)
 
-Projects:
+Projects, challanges and activities
+====================================
 
 City Open Data Census Croatia
 =========================
-What's missing in 2014, how do we compare to other cities? [Read more](https://github.com/codeforcroatia/codeacross/blob/master/Ocjena-otvorenosti-gradova.md)
+What's missing in 2014, how do we compare to other cities? [Read more](/Ocjena-otvorenosti-gradova.md)
 
 GIS Maps Showing Air Quality, Air Pollution & Community Demographics
 =========================
-Visualize the link between air quality and community demographics. We dont have description, create one: [GitHub issue tracker][issues]
+Visualize the link between air quality and community demographics. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new)
 
 Violence Prevention & Violence Interruption Programs
 =========================
-What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? [Read more](/Otvoreni-incidenti.md)
+What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new)
 
-4. Network Map of Bay Area Non-Profit Relationships
+Network Map of your city Non-Profit Relationships
 =========================
-Map out the network relationships of non-profits in the Bay Area in the hopes of better understanding where the gaps may be. [Read more](https://github.com/openoakland/DataDay/issues/4)
+Map out the network relationships of non-profits in the your city in the hopes of better understanding where the gaps may be. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) Check out also [givinggraph](https://github.com/dssg/givinggraph)
 
-5. Web-based Mapping Tool Focused for Vacant Land in Oakland
+Web-based Mapping Tool Focused for Vacant real estate in your city
 =========================
-Start putting vacant land in Oakland to good use by making it available for urban agriculture. The first step is to map all of the vacant land. [Read more](https://github.com/openoakland/DataDay/issues/5) [Take a look at the web-based map we created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
+Start putting vacant real estate in your city to good use by making it available for renting. The first step is to map all of the vacant city real estate. [Read more](/Otvorena-imovina.md) [Take a look at the web-based map community created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
 
-The day's resultant project can be found [here](http://oakland-city-farm-share.github.io/vacant-lots/) and the source can be viewed [here](https://github.com/oakland-city-farm-share/vacant-lots).
+The CodeAcross 2014 resultant project can be found [here](http://zagreb.codeforcroatia.org/otvorene-karte/imovina-zagreb-2011.html) and the source can be viewed [here](https://github.com/openzagreb/otvorene-karte/).
 
-6. Oakland Unified Staff Data
+Zagreb Officials Data
 =========================
-Delve deep in to staffing data for OUSD to help make more educated decisions on staffing needs. [Read more](https://github.com/openoakland/DataDay/issues/6)
+Delve deep in to contact data of officials in City of Zagreb to help make more educated decisions on city's needs. [Contribute](https://zagreb.popit.mysociety.org)
 
-7. Hyperlocal Job Listings
+Zagreb Council Transcripts
 =========================
-Tie job listings to a sub-neighborhood or even a block. [Read more](https://github.com/openoakland/DataDay/issues/7)
+Publish transcripts from meetings or share statements from those in power. Anyone can use SayIt, alone or in collaboration with others.
 
-8. Crime Report Data Mapped to Show Common Criminal Routes
+**For councils and organisations that hold public meetings**
+Still publishing meeting transcripts on PDFs? SayIt makes it easier for your readers to find the parts that really interest them.
+
+Unlike crusty old PDFs, SayIt works beautifully on every device from a phone to a tablet to a desktop. And it’s acccessible for screenreaders and assistive devices. [Contribute](http://zagreb-skupstina.sayit.mysociety.org)
+
+Crime Report Data Mapped to Show Common Criminal Routes
 =========================
-Map crimes linked to perpetrators to determine overall crime vectors and aid police in determining hot routes. [Read more](https://github.com/openoakland/DataDay/issues/8)
+Map crimes linked to perpetrators to determine overall crime vectors and aid police in determining hot routes. [Read more](/Otvoreni-incidenti.md)
 
-9. Building Permits Database
+Building Permits Database
 =========================
-Create open access to the database of building permits. [Read more](https://github.com/openoakland/DataDay/issues/9)
+Create open access to the database of building permits. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) 
 
-10. Scraping Oakland Web Sites Training
+Scraping Web Sites To Deliberate More Data
 ========================
-Max will lead a workshop that will show participants how to scrape content from public websites- still a critical tool for liberating public data! [Read more](https://github.com/openoakland/DataDay/issues/11)
+Scrape content from public websites - still a critical tool for liberating public data! We dont have description, create one: [Read more](/Open-civic-data-scrapers.md)
 
-11. Open Disclosure - Bringing Oakland's Campaign Money to Light
+Open Disclosure - Bringing Political Candidates Campaign Money to Light
 ========================
-Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. [Read more](https://github.com/openoakland/opendisclosure)
+Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) 
+[Example](https://github.com/openoakland/opendisclosure)
+
+Food Inspection Open Data
+=========================
+Food safety plays a critical role in any public health program. The Local Inspector Value-entry Specification (LIVES) lets citizens better use inspection results to inform where they will eat next. [Read more](/Otvoreni-podaci-sanitarne-inspekcije.md)
+
+The CodeAcross 2014 resultant project can be found [here](http://codeforcroatia.github.io/sanitarnipodaci/) and the source can be viewed [here](https://github.com/codeforcroatia/sanitarnipodaci).
