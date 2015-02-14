@@ -7,17 +7,17 @@ Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add
 
 Projects:
 
-1. Catalog Oakland's Data!
+City Open Data Census Croatia
 =========================
-What's missing in 2014, how do we compare to other cities? [Read more](https://github.com/openoakland/DataDay/issues/1)
+What's missing in 2014, how do we compare to other cities? [Read more](https://github.com/codeforcroatia/codeacross/blob/master/Ocjena-otvorenosti-gradova.md)
 
-2. GIS Maps Showing Air Quality, Air Pollution & Community Demographics
+GIS Maps Showing Air Quality, Air Pollution & Community Demographics
 =========================
-Visualize the link between air quality and community demographics. [Read more](https://github.com/openoakland/DataDay/issues/2)
+Visualize the link between air quality and community demographics. We dont have description, create one: [GitHub issue tracker][issues]
 
-3. Violence Prevention & Violence Interruption Programs
+Violence Prevention & Violence Interruption Programs
 =========================
-What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? [Read more](https://github.com/openoakland/DataDay/issues/3)
+What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? [Read more](/Otvoreni-incidenti.md)
 
 4. Network Map of Bay Area Non-Profit Relationships
 =========================
