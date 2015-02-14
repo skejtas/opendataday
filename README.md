@@ -1,6 +1,8 @@
 CodeAcross and OpenDataDay challanges for 2015 in Croatia, Zagreb
 ====================================
 
+[![Join the chat at https://gitter.im/codeforcroatia/codeacross](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/codeacross?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
 
 [Add new project](http://codeforcroatia.org/projects/create)
