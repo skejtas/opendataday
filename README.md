@@ -1,8 +1,9 @@
-DataDay Projects for 2014 in Oakland
+CodeAcross and OpenDataDay challanges for 2015 in Croatia, Zagreb
 ====================================
 
-Projects for Oakland Data Day 2014 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
+Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
 
+[Add new project](http://codeforcroatia.org/projects/create)
 
 Projects:
 
