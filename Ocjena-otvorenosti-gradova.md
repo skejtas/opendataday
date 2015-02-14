@@ -3,6 +3,8 @@ Ocjena otvorenih podataka gradova u Hrvatskoj: Koje informacije objavljuje tvoj 
 
 CodeAcross 2015 aktivnost (1)
 
+[Stranica projekta](http://codeforcroatia.org/projects/cenzus_otvorenih_podataka_hrvatskih_gradova)
+
 Prvi korak da bi baza otvorenih podataka funkcionirala je taj da podaci moraju biti lako dostupni. Mnogi gradovi, imali oni politiku otvorenih podataka ili ne, imaju dosta posla što se tiče rada na glavnoj bazi podataka, da ona bude dostupna svima u čitljivom formatu. Potrebno je evaluirati na kakvoj se poziciji grad nalazi što se tiče baza podataka i potreban je rad sa gradskim vlastima da bi se napravio program koji bi omogućili tu bazu da bude otvorena i dostupna svima u 2014. godini.
 
 
@@ -31,7 +33,7 @@ Sada je vrijeme za odabir problema koje mori Vas i Vaš grad (stopa zločina, np
 Podijelite svoje rezultate
 --------------------------
 
-Koristite [obrazac za podnesak](http://www.google.com/url?q=http%3A%2F%2Fhr-city.census.okfn.org&sa=D&sntz=1&usg=AFQjCNGBp-BuN0Pdy4493pZ3WlFomhnY3Q) i [ovaj obrazac](https://docs.google.com/spreadsheets/d/1ppSAVbfV8nxrAWMS5ggL3qBiZwZhGDTALH1XxL7YoHA/edit#gid=3), gdje možete izvijestiti o svojim nalazima, slijedeći ove instrukcije;
+Nakon što ste podnijeli [ocjene otvorenosti gradova](http://www.google.com/url?q=http%3A%2F%2Fhr-city.census.okfn.org&sa=D&sntz=1&usg=AFQjCNGBp-BuN0Pdy4493pZ3WlFomhnY3Q), koristite [ovaj obrazac](https://docs.google.com/spreadsheets/d/1ppSAVbfV8nxrAWMS5ggL3qBiZwZhGDTALH1XxL7YoHA/edit#gid=3), gdje možete izvijestiti o svojim nalazima, slijedeći ove instrukcije;
 
 1. Klikni na padajući izbornik na “sheet 1” kartici na dnu stranice i odaberi “Duplicate”
 
@@ -40,7 +42,7 @@ Koristite [obrazac za podnesak](http://www.google.com/url?q=http%3A%2F%2Fhr-city
 
 2. Provjerite već postojeće kartice “Grad Zagreb” i “Hrvatska.”
 
-Za kraj je bitno slati izvješća o radu i napretku, zajedno sa kopijama svega što ste kreirali. Registrirajte se na stranici projekta i uključite u tim. Sve materijale koje ste napravili pošaljite na email upload.Radovi.9ntrlqvgqk@u.box.com - vaši materijali biti će dostupni na linku https://app.box.com/s/lar2b9r6epxqi8r1btms0hfz968p1xej
+Za kraj je bitno slati izvješća o radu i napretku, zajedno sa kopijama svega što ste kreirali. Registrirajte se na [stranici projekta](http://codeforcroatia.org/projects/cenzus_otvorenih_podataka_hrvatskih_gradova) i uključite u tim. Sve materijale koje ste napravili pošaljite na email upload.Radovi.9ntrlqvgqk@u.box.com - vaši materijali koje ste poslali emailom biti će dostupni svima na linku https://app.box.com/s/lar2b9r6epxqi8r1btms0hfz968p1xej
 
 ### Setovi podataka (datasets)
 
