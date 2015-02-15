@@ -71,3 +71,9 @@ Food Inspection Open Data
 Food safety plays a critical role in any public health program. The Local Inspector Value-entry Specification (LIVES) lets citizens better use inspection results to inform where they will eat next. [Read more](/Otvoreni-podaci-sanitarne-inspekcije.md)
 
 The CodeAcross 2014 resultant project can be found [here](http://codeforcroatia.github.io/sanitarnipodaci/) and the source can be viewed [here](https://github.com/codeforcroatia/sanitarnipodaci).
+
+Visualize MojZagreb - 311 requests
+---------------
+MojZagreb is a service that enables citizens using a simple application, review and comment irregularities and problems in Zagreb and receiving feedback from the City in terms of problem solving. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new)
+
+Bulk export data can be found [here](http://data.zagreb.hr/dataset/mojzagreb) - use that data to create visualization and statistics. Hint: try free [Infogr.am](https://infogr.am) service to create infographics.
