@@ -23,11 +23,15 @@ What's the link between currently operating violence prevention / violence inter
 
 Network Map of your city Non-Profit Relationships
 ---------------
-Map out the network relationships of non-profits in the your city in the hopes of better understanding where the gaps may be. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) Check out also [givinggraph](https://github.com/dssg/givinggraph)
+Map out the network relationships of non-profits in the your city in the hopes of better understanding where the gaps may be. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) 
+
+Check out also [givinggraph](https://github.com/dssg/givinggraph)
 
 Web-based Mapping Tool Focused for Vacant real estate in your city
 ---------------
-Start putting vacant real estate in your city to good use by making it available for renting. The first step is to map all of the vacant city real estate. [Read more](/Otvorena-imovina.md) [Take a look at the web-based map community created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
+Start putting vacant real estate in your city to good use by making it available for renting. The first step is to map all of the vacant city real estate. [Read more](/Otvorena-imovina.md) 
+
+[Take a look at the web-based map community created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
 
 The CodeAcross 2014 resultant project can be found [here](http://zagreb.codeforcroatia.org/otvorene-karte/imovina-zagreb-2011.html) and the source can be viewed [here](https://github.com/openzagreb/otvorene-karte/).
 
@@ -59,6 +63,7 @@ Scrape content from public websites - still a critical tool for liberating publi
 Open Disclosure - Bringing Political Candidates Campaign Money to Light
 ---------------
 Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. We dont have description, create one: [GitHub issue tracker](https://github.com/codeforcroatia/codeacross/issues/new) 
+
 [Example](https://github.com/openoakland/opendisclosure)
 
 Food Inspection Open Data
