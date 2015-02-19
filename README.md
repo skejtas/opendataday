@@ -5,7 +5,7 @@ CodeAcross and OpenDataDay challanges for 2015 in Croatia, Zagreb
 
 Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
 
-https://github.com/codeforcroatia/codeofconduct
+In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
 
 **Have new project idea?** [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan in Markdown syntax](template-project_plan.md).
 
