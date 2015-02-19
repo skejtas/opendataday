@@ -87,3 +87,7 @@ Redeploy existing code: Public Art Finder helps users find public art through a 
 Data source: Zagreb Tourist Board has mobile portal with some sightseeing data and that data is available in XML, so check [here](http://www1.zagreb.hr/zkult/xml/object8_en.xml) - some of it is already downloaded [here](https://app.box.com/s/ogaz2awga9xptclkgb0bdxzp3koauz14).
 
 Build with data what is available and @OpenZagreb will speak with city officials to keep permanent record on their web sites in XML form. Document if changes in XML structure are needed / recommended.
+
+Open city maps
+---------------
+Use existing source code for Mobile Fusion Maps to visualize anything. [Read more](http://codeforcroatia.org/projects/otvorene_karte).
