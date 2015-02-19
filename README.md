@@ -37,18 +37,23 @@ Start putting vacant real estate in your city to good use by making it available
 
 The CodeAcross 2014 resultant project can be found [here](http://zagreb.codeforcroatia.org/otvorene-karte/imovina-zagreb-2011.html) and the source can be viewed [here](https://github.com/openzagreb/otvorene-karte/).
 
-Zagreb Officials Data
+Zagreb Officials Data (PopIt)
 ---------------
 Delve deep in to contact data of officials in City of Zagreb to help make more educated decisions on city's needs. [Contribute](https://zagreb.popit.mysociety.org)
 
-Zagreb Council Transcripts
+Zagreb Council Transcripts (SayIt)
 ---------------
-Publish transcripts from meetings or share statements from those in power. Anyone can use SayIt, alone or in collaboration with others.
+Publish transcripts from meetings or share statements from those in power. Anyone can use SayIt, alone or in collaboration with others. SayIt uses PopIt as a elected officials database.
 
 **For councils and organisations that hold public meetings**
 Still publishing meeting transcripts on PDFs? SayIt makes it easier for your readers to find the parts that really interest them.
 
 Unlike crusty old PDFs, SayIt works beautifully on every device from a phone to a tablet to a desktop. And it’s acccessible for screenreaders and assistive devices. [Contribute](http://zagreb-skupstina.sayit.mysociety.org)
+
+Zagreb Officials Contact Form (WriteIt)
+---------------
+
+As an extension of PopIt (API with officials data), you can setup own instance of WriteIt for sending emails directly to elected officials. [See Zagreb WriteIt instance here](http://writeit.ciudadanointeligente.org/en/writeit_instances/grad-zagreb-hrvatska)
 
 Crime Report Data Mapped to Show Common Criminal Routes
 ---------------
