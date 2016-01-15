@@ -1,11 +1,19 @@
-CodeAcross and OpenDataDay challanges for 2015 in Croatia, Zagreb
+CodeAcross and OpenDataDay in Croatia, Zagreb
 ====================================
 
 [![Join the chat at https://gitter.im/codeforcroatia/codeacross](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/codeacross?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
-
 In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
+
+## Waffle.io
+
+[![Stories Ready to Work On](https://badge.waffle.io/codeforcroatia/codeacross.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/codeforcroatia/codeacross)
+
+This waffle was created from http://hackshop.waffle.io. Use [the Waffle board](https://waffle.io/codeforcroatia/codeacross) for this repo to always know what to do next for your hackshop project!
+
+## Challanges for 2016
+
+Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
 
 **Have new project idea?** [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan in Markdown syntax](template-project_plan.md).
 
