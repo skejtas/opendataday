@@ -23,11 +23,11 @@ Visualize the link between air quality and community demographics. We dont have 
 
 Violence Prevention & Violence Interruption Programs
 ---------------
-What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+What's the link between currently operating violence prevention / violence interruption programs and crime rates in those neighborhoods? We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using using [template for project plan](template-project_plan.md).
 
 Network Map of your city Non-Profit Relationships
 ---------------
-Map out the network relationships of non-profits in the your city in the hopes of better understanding where the gaps may be. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+Map out the network relationships of non-profits in the your city in the hopes of better understanding where the gaps may be. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan](template-project_plan.md).
 
 Check out also [givinggraph](https://github.com/dssg/givinggraph)
 
@@ -63,7 +63,7 @@ Map crimes linked to perpetrators to determine overall crime vectors and aid pol
 
 Building Permits Database
 ---------------
-Create open access to the database of building permits. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+Create open access to the database of building permits. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan](template-project_plan.md).
 
 Scraping Web Sites To Deliberate More Data
 ---------------
@@ -71,7 +71,7 @@ Scrape content from public websites - still a critical tool for liberating publi
 
 Open Disclosure - Bringing Political Candidates Campaign Money to Light
 ---------------
-Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+Create a campaign finance data tool that clearly shows the flow of money into and out of campaigns. Ensure government integrity and transparency in campaign activities by opening up campaign finance data to the public. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan](template-project_plan.md).
 
 [Example](https://github.com/openoakland/opendisclosure)
 
@@ -83,13 +83,13 @@ The CodeAcross 2014 resultant project can be found [here](http://codeforcroatia.
 
 Visualize MojZagreb - 311 requests
 ---------------
-MojZagreb is a service that enables citizens using a simple application, review and comment irregularities and problems in Zagreb and receiving feedback from the City in terms of problem solving. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+MojZagreb is a service that enables citizens using a simple application, review and comment irregularities and problems in Zagreb and receiving feedback from the City in terms of problem solving. We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan](template-project_plan.md).
 
 Bulk export data can be found [here](http://data.zagreb.hr/dataset/mojzagreb) - use that data to create visualization and statistics. Hint: try free [Infogr.am](https://infogr.am) service to create infographics.
 
 Tourist guide
 ---------------
-Redeploy existing code: Public Art Finder helps users find public art through a mobile, map-based UI allowing them to view additional background information on individual artworks. [Read more](http://www.codeforamerica.org/apps/public-art-finder/). We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using template-project_plan.md.
+Redeploy existing code: Public Art Finder helps users find public art through a mobile, map-based UI allowing them to view additional background information on individual artworks. [Read more](http://www.codeforamerica.org/apps/public-art-finder/). We dont have project description, create one: [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan](template-project_plan.md).
 
 Data source: Zagreb Tourist Board has mobile portal with some sightseeing data and that data is available in XML, so check [here](http://www1.zagreb.hr/zkult/xml/object8_en.xml) - some of it is already downloaded [here](https://app.box.com/s/ogaz2awga9xptclkgb0bdxzp3koauz14).
 
