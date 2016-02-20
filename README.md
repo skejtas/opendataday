@@ -35,7 +35,7 @@ Web-based Mapping Tool Focused for Vacant real estate in your city
 ---------------
 Start putting vacant real estate in your city to good use by making it available for renting. The first step is to map all of the vacant city real estate. [Read more](/Otvorena-imovina.md) 
 
-[Take a look at the web-based map community created at Oakland Data Day](http://oakland-city-farm-share.github.io/vacant-lots/)
+[Take a look at the web-based map community created at Oakland Data Day](https://github.com/map-communities/old-oakland-vacant-lots)
 
 The CodeAcross 2014 resultant project can be found [here](http://zagreb.codeforcroatia.org/otvorene-karte/imovina-zagreb-2011.html) and the source can be viewed [here](https://github.com/openzagreb/otvorene-karte/).
 
