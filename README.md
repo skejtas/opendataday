@@ -55,7 +55,7 @@ Unlike crusty old PDFs, SayIt works beautifully on every device from a phone to 
 Zagreb Officials Contact Form (WriteIt)
 ---------------
 
-As an extension of PopIt (API with officials data), you can setup own instance of WriteIt for sending emails directly to elected officials. [See Zagreb WriteIt instance here](http://writeit.ciudadanointeligente.org/en/writeit_instances/grad-zagreb-hrvatska)
+As an extension of PopIt (API with officials data), you can setup own instance of WriteIt for sending emails directly to elected officials. [See Zagreb WriteIt instance here](http://grad-zagreb-hrvatska.writeit.ciudadanointeligente.org/en/)
 
 Crime Report Data Mapped to Show Common Criminal Routes
 ---------------
