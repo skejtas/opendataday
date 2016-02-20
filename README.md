@@ -5,12 +5,6 @@ CodeAcross and OpenDataDay in Croatia, Zagreb
 
 In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
 
-## Waffle.io
-
-[![Stories Ready to Work On](https://badge.waffle.io/codeforcroatia/codeacross.svg?label=ready&title=Cards%20Ready%20To%20Work%20On)](https://waffle.io/codeforcroatia/codeacross)
-
-This waffle was created from http://hackshop.waffle.io. Use [the Waffle board](https://waffle.io/codeforcroatia/codeacross) for this repo to always know what to do next for your hackshop project!
-
 ## Challanges for 2016
 
 Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
