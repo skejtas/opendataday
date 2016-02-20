@@ -1,6 +1,8 @@
 CodeAcross & OpenDataDay
 ==========
 
+[![Slack Status](http://slackin.codeforcroatia.org/badge.svg)](http://codeforcroatia.org/slackin)
+
 CodeAcross and OpenDataDay Croatia event landing page
 
 ## Waffle.io
