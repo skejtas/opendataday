@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/codeforcroatia/codeacross/gh-pages/img/organizers/build/cfc-logo_tg.png" />
+CodeAcross & OpenDataDay project
 
 [Title Goes Here]
 =================
