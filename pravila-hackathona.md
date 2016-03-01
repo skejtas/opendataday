@@ -3,7 +3,9 @@
 Službena pravila hackathona CodeAcross & OpenDataDay koji se održava u Zagrebu, 5. i 6. ožujka 2016.
 
 Naziv hackathona: **CodeAcross & OpenDataDay 2016**
+
 Cilj hackathona: **napraviti aplikaciju koja će građanima riješiti neki od trenutno prisutnih problema (razina kvarta, grada, općine, županije ili države)**
+
 Internetska stranica hackathona: http://codeacross.codeforcroatia.org
 
 ##1. Organizator i administrator
@@ -107,15 +109,15 @@ A. Suci: Kvalificirani podnesci biti će ocjenjeni od strane panela sudaca koje 
 
 B. Kriteriji ocjenjivanja:
 
-#1 - originalnost, uključuje kreativnost i jedinstvenost ideje;
+1 - originalnost, uključuje kreativnost i jedinstvenost ideje;
 
-#2 - dizajn, uključuje opseg u kojem je aplikacija razrađena, vizualni izgled i mogućnost korištenja od strane predviđenih korisnika;
+2 - dizajn, uključuje opseg u kojem je aplikacija razrađena, vizualni izgled i mogućnost korištenja od strane predviđenih korisnika;
 
-#3 - efikasno korištenje tehnologije, uključuje opseg u kojem aplikacija efikasno koristi dostupna API sučelja, izvore podataka i ostale alate;
+3 - efikasno korištenje tehnologije, uključuje opseg u kojem aplikacija efikasno koristi dostupna API sučelja, izvore podataka i ostale alate;
 
-#4 - korisnost i utjecaj, uključuje jedinstvenost integracije i opseg u kojem aplikacija utječe na namjenjenu skupinu korisnika;
+4 - korisnost i utjecaj, uključuje jedinstvenost integracije i opseg u kojem aplikacija utječe na namjenjenu skupinu korisnika;
 
-#5 - primjenjivost i održivost, opisuje opseg u kojem se aplikacija može koristiti te ima li aplikacija dugoročnu održivost.
+5 - primjenjivost i održivost, opisuje opseg u kojem se aplikacija može koristiti te ima li aplikacija dugoročnu održivost.
 
 Ovi kriteriji se možda neće moći primjeniti na sve nagrade. Završni radovi koji dobiju naviše bodova postati će potencijalni dobitinici nagrade.
 
