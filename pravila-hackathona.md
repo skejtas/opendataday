@@ -77,7 +77,7 @@ Svi materijali podnešeni uz završni rad trebaju biti na hrvatskom jeziku. Ako 
 
 b. Podnesci
 
-(1) Što se programira: Tijekom hackathona sudionici trebaju programirati aplikaciju koja je spremna za korištenje. Kao izvor podataka najviše se koriste otvoreni podaci koje je dao organizator ili iz drugih izvora.
+(1) Što se programira: Tijekom hackathona sudionici trebaju programirati aplikaciju koja je spremna za korištenje. Kao izvor podataka mogu se koristiti otvoreni podaci koje je dao organizator ili iz drugih izvora.
 
 (2) Funkcionalnost: Aplikacija treba biti spremna za instalaciju i rad na računalu i/ili mobilnom telefonu.
 
