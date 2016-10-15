@@ -5,6 +5,8 @@ CodeAcross and OpenDataDay in Croatia, Zagreb
 
 [![Join the chat at https://gitter.im/codeforcroatia/codeacross](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/codeacross?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[![Organizer board](https://badge.waffle.io/codeforcroatia/codeacross.svg?label=ready&title=Ready)](http://waffle.io/codeforcroatia/codeacross) organizer board
+
 In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
 
 ## Challanges for 2016
