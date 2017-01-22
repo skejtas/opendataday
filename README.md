@@ -3,8 +3,6 @@ OpenDataDay in Croatia, Zagreb
 
 [![Join the chat at Slack](http://slackin.codeforcroatia.org/badge.svg)](http://codeforcroatia.org/slackin)
 
-[![Join the chat at https://gitter.im/codeforcroatia/opendataday](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/opendataday?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 [![Organizer board](https://badge.waffle.io/codeforcroatia/opendataday.svg?label=ready&title=Ready)](http://waffle.io/codeforcroatia/opendataday) organizer board
 
 In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
