@@ -1,17 +1,17 @@
-CodeAcross and OpenDataDay in Croatia, Zagreb
+OpenDataDay in Croatia, Zagreb
 ====================================
 
 [![Join the chat at Slack](http://slackin.codeforcroatia.org/badge.svg)](http://codeforcroatia.org/slackin)
 
-[![Join the chat at https://gitter.im/codeforcroatia/codeacross](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/codeacross?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/codeforcroatia/opendataday](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codeforcroatia/opendataday?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Organizer board](https://badge.waffle.io/codeforcroatia/codeacross.svg?label=ready&title=Ready)](http://waffle.io/codeforcroatia/codeacross) organizer board
+[![Organizer board](https://badge.waffle.io/codeforcroatia/opendataday.svg?label=ready&title=Ready)](http://waffle.io/codeforcroatia/opendataday) organizer board
 
 In the spirit of constructive discussion, we encourage you to read our [code of conduct](https://github.com/codeforcroatia/codeofconduct).
 
-## Challanges for 2016
+## Challanges
 
-Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
+Projects and challanges for Croatia OpenDataDay - please add your project ideas and your teams as they form, along with data needs, issues & links to code repos.
 
 **Have new project idea?** [Add new project](http://codeforcroatia.org/projects/create) using [template for project plan in Markdown syntax](template-project_plan.md).
 
@@ -19,7 +19,7 @@ Projects and challanges for Croatia CodeAcross and OpenDataDay 2015 - please add
 
 City Open Data Census Croatia
 ---------------
-What's missing in 2014, how do we compare to other cities? [Read more](/Ocjena-otvorenosti-gradova.md) and [here](http://codeforcroatia.org/projects/cenzus_otvorenih_podataka_hrvatskih_gradova)
+What's missing, how do we compare to other cities? [Read more](/Ocjena-otvorenosti-gradova.md) and [here](http://codeforcroatia.org/projects/cenzus_otvorenih_podataka_hrvatskih_gradova)
 
 GIS Maps Showing Air Quality, Air Pollution & Community Demographics
 ---------------
