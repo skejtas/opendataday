@@ -1,4 +1,4 @@
-OpenDataDay in Croatia, Zagreb
+Open Data Day in Croatia, Zagreb
 ====================================
 
 [![Join the chat at Slack](http://slackin.codeforcroatia.org/badge.svg)](http://codeforcroatia.org/slackin)
