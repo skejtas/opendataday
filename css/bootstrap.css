@@ -462,8 +462,9 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "oswaldbook","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.1;
+  /* removed: "oswaldbook", */
 }
 
 h1 small,
